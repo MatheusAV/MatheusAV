@@ -50,8 +50,6 @@
 
 <img src="./assets/metrics.svg" width="100%" alt="Métricas do GitHub" />
 
-<img src="./assets/metrics-calendar.svg" width="56%" alt="Calendário de contribuições isométrico" />
-
 <br><br>
 
 <img src="https://raw.githubusercontent.com/MatheusAV/MatheusAV/output/snake-dark.svg" width="100%" alt="Cobra comendo o gráfico de contribuições" />
