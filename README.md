@@ -111,8 +111,12 @@ ship the last mile with **Angular** and **TypeScript**.
 
 <div align="center">
 
-<img src="./assets/langs.svg" height="200" alt="Linguagens nos repositórios públicos" />
-<img src="./assets/how.svg" height="200" alt="Como eu trabalho" />
+<table>
+<tr>
+<td width="50%"><img src="./assets/langs.svg" width="100%" alt="Linguagens nos repositórios públicos" /></td>
+<td width="50%"><img src="./assets/how.svg" width="100%" alt="Como eu trabalho" /></td>
+</tr>
+</table>
 
 <br><br>
 
