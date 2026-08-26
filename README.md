@@ -60,7 +60,7 @@
 
 <div align="center">
 
-Aberto a oportunidades como **desenvolvedor backend .NET** — São Paulo ou remoto.
+<img src="assets/contact.svg" width="100%" alt="Aberto a oportunidades">
 
 <a href="https://www.linkedin.com/in/matheus-avelino-de-jesus-071737188/"><img src="https://img.shields.io/badge/LINKEDIN-E23636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
 <a href="mailto:matheusjesusavelino@gmail.com"><img src="https://img.shields.io/badge/GMAIL-E23636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" /></a>
