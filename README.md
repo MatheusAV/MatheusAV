@@ -120,7 +120,7 @@ ship the last mile with **Angular** and **TypeScript**.
 
 <img src="./assets/metrics.svg" width="100%" alt="Métricas do GitHub" />
 
-<img src="./assets/metrics-calendar.svg" width="78%" alt="Calendário de contribuições isométrico" />
+<img src="./assets/metrics-calendar.svg" width="56%" alt="Calendário de contribuições isométrico" />
 
 <br><br>
 
