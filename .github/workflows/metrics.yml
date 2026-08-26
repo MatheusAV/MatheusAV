@@ -1,10 +1,11 @@
 name: Metrics
 
-# Antes de rodar: crie um token classico em https://github.com/settings/tokens
-# (escopo: read:user + public_repo) e salve como secret METRICS_TOKEN neste repositorio.
+# Token classico com escopos read:user + public_repo salvo como secret METRICS_TOKEN.
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * *"
 
 permissions:
   contents: write
@@ -22,9 +23,16 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
+          config_padding: 4%
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 6
+          extras_css: |
+            svg { background: #000000; color: #C6D0DE; }
+            h1, h2, h3 { color: #E23636 !important; }
+            h1 svg, h2 svg, h3 svg { fill: #E23636 !important; }
+            .field svg { fill: #8B94A3 !important; }
+            a { color: #7FA8FF !important; }
 
       - name: Metrics calendario isometrico
         uses: lowlighter/metrics@latest
@@ -34,5 +42,12 @@ jobs:
           filename: assets/metrics-calendar.svg
           base: ""
           config_timezone: America/Sao_Paulo
+          config_padding: 4%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            svg { background: #000000; color: #C6D0DE; }
+            h1, h2, h3 { color: #E23636 !important; }
+            h1 svg, h2 svg, h3 svg { fill: #E23636 !important; }
+            .field svg { fill: #8B94A3 !important; }
+            a { color: #7FA8FF !important; }
