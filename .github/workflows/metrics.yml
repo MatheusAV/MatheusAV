@@ -21,6 +21,7 @@ jobs:
           user: MatheusAV
           filename: assets/metrics.svg
           template: classic
+          config_display: large
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           config_padding: 4%
