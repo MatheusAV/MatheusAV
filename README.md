@@ -112,7 +112,7 @@ ship the last mile with **Angular** and **TypeScript**.
 <div align="center">
 
 <img src="./assets/langs.svg" height="200" alt="Linguagens nos repositórios públicos" />
-<img src="https://streak-stats.demolab.com/?user=MatheusAV&theme=dark&background=000000&border=E23636&stroke=E23636&ring=E23636&fire=E23636&currStreakNum=F2F5FA&sideNums=F2F5FA&currStreakLabel=E23636&sideLabels=8B94A3&dates=5A6272&border_radius=14" height="200" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=MatheusAV&theme=dark&background=000000&border=E23636&ring=E23636&fire=E23636&currStreakLabel=E23636&sideLabels=8B94A3&dates=5A6272&border_radius=14" height="200" alt="Streak" />
 
 <br><br>
 
