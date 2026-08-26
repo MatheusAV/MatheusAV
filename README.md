@@ -29,7 +29,7 @@ No frontend, entrego a ponta com **Angular** e **TypeScript**.
 > *"Com grandes poderes vêm grandes responsabilidades"* — por isso: testes, logs e código que o próximo dev consiga ler.
 
 <details>
-<summary><b>🇺🇸 Read in English</b></summary>
+<summary><b>🌐 Read in English</b></summary>
 
 <br>
 
@@ -183,12 +183,28 @@ rotas protegidas e testes automatizados.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub em números
+## 📊 Linguagens & jeito de trabalhar
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusAV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E23636&icon_color=5B8DEF&text_color=C6D0DE&ring_color=E23636" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAV&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C6D0DE" alt="Linguagens mais usadas" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="54%">
+
+<img src="./assets/langs.svg" width="100%" alt="Linguagens nos repositórios públicos" />
+
+  </td>
+  <td valign="top" width="46%">
+
+**Como eu trabalho**
+
+- 🧱 Camadas separadas: `Domain` · `Application` · `Infrastructure` · `API`
+- 🧪 Testes de unidade e integração, não "funciona na minha máquina"
+- 📜 README, Swagger e logs estruturados em todo projeto
+- 🐳 Docker Compose para subir a stack inteira com um comando
+- 🔒 JWT, hash + salt e rotas protegidas por padrão
+
+  </td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
