@@ -10,17 +10,85 @@
 <img src="https://img.shields.io/badge/S%C3%83O%20PAULO%20%C2%B7%20BR-1C2029?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="São Paulo, Brasil" />
 <img src="https://komarev.com/ghpvc/?username=MatheusAV&style=for-the-badge&color=E23636&label=VIEWS" alt="Profile views" />
 
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 </div>
 
-<img src="assets/s1.svg" width="100%" alt="Sobre mim — About me">
+## 🕸️ Sobre mim
 
-<img src="assets/about-panel.svg" width="100%" alt="Sobre mim">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<img src="assets/s2.svg" width="100%" alt="Arsenal — Tech stack">
+Desenvolvedor **backend .NET** em São Paulo. Construo **APIs REST** com ASP.NET Core
+pensando em arquitetura antes de código: **Clean Architecture**, **DDD**, **CQRS** e
+**SOLID** não são enfeite de README aqui — são a forma como os projetos deste perfil
+estão organizados.
 
-<img src="assets/stack.svg" width="100%" alt="Stack de tecnologias">
+No dia a dia trabalho com **C#**, **Entity Framework Core**, **SQL Server**,
+**PostgreSQL**, **MongoDB** e **Redis**, com autenticação **JWT**, tempo real via
+**SignalR**, logging estruturado com **Serilog**, testes com **xUnit** e containers
+com **Docker**. No frontend, entrego a ponta com **Angular** e **TypeScript**.
 
-<img src="assets/s3.svg" width="100%" alt="Missões em destaque — Featured projects">
+```csharp
+public sealed class Matheus : IBackendDeveloper
+{
+    public string  Role      => ".NET Backend Developer";
+    public string  Location  => "São Paulo, Brasil";
+    public string[] Focus    => ["Clean Architecture", "DDD", "CQRS", "SOLID"];
+    public bool    OpenToWork => true;
+}
+```
+
+<details>
+<summary><b>🌐 Read in English</b></summary>
+
+<br>
+
+**Backend .NET developer** based in São Paulo, Brazil. I build **REST APIs** with
+ASP.NET Core with architecture as a first-class concern: **Clean Architecture**,
+**DDD**, **CQRS** and **SOLID** are not README decoration here — they are how the
+projects on this profile are actually structured.
+
+Day to day I work with **C#**, **EF Core**, **SQL Server**, **PostgreSQL**,
+**MongoDB** and **Redis**, with **JWT** auth, real-time via **SignalR**, structured
+logging with **Serilog**, testing with **xUnit** and **Docker**. On the frontend I
+ship the last mile with **Angular** and **TypeScript**.
+
+</details>
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="./assets/about.svg" width="100%" alt="Aranha descendo sobre a cidade" />
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ⚡ Arsenal
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,nodejs&theme=dark" alt="C#, .NET, Visual Studio, Node" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,react&theme=dark" alt="Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap, React" />
+
+**Dados & Infra**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,postman&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Redis, Docker, Git, GitHub, Postman" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🎯 Missões em destaque
 
 <table>
 <tr>
@@ -37,7 +105,9 @@
 </tr>
 </table>
 
-<img src="assets/s4.svg" width="100%" alt="Sentido aranha — GitHub stats">
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 📊 Sentido aranha
 
 <div align="center">
 
@@ -50,17 +120,22 @@
 
 <img src="./assets/metrics.svg" width="100%" alt="Métricas do GitHub" />
 
+<img src="./assets/metrics-calendar.svg" width="78%" alt="Calendário de contribuições isométrico" />
+<img src="./assets/metrics-calendar.svg" width="56%" alt="Calendário de contribuições isométrico" />
+
 <br><br>
 
 <img src="https://raw.githubusercontent.com/MatheusAV/MatheusAV/output/snake-dark.svg" width="100%" alt="Cobra comendo o gráfico de contribuições" />
 
 </div>
 
-<img src="assets/s5.svg" width="100%" alt="Vamos conversar — Get in touch">
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🕷️ Vamos conversar
 
 <div align="center">
 
-<img src="assets/contact.svg" width="100%" alt="Aberto a oportunidades">
+Aberto a oportunidades como **desenvolvedor backend .NET** — São Paulo ou remoto.
 
 <a href="https://www.linkedin.com/in/matheus-avelino-de-jesus-071737188/"><img src="https://img.shields.io/badge/LINKEDIN-E23636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
 <a href="mailto:matheusjesusavelino@gmail.com"><img src="https://img.shields.io/badge/GMAIL-E23636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" /></a>
