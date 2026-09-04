@@ -2,8 +2,9 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Matheus Avelino de Jesus — .NET Backend Developer" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=E23636&center=true&vCenter=true&width=820&height=48&lines=Backend+.NET+Developer;Clean+Architecture+%C2%B7+DDD+%C2%B7+CQRS+%C2%B7+SOLID;APIs+REST+com+testes%2C+logs+e+documenta%C3%A7%C3%A3o" alt="Backend .NET Developer" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=E23636&center=true&vCenter=true&width=820&height=48&lines=Engenheiro%20de%20Software%20Full%20Stack;8%2B%20anos%20em%20.NET%20e%20C%23;Microsservi%C3%A7os%20%C2%B7%20Kafka%20%C2%B7%20RabbitMQ;Integra%C3%A7%C3%B5es%20Bacen%20%C2%B7%20Pix%20%C2%B7%20EFD-Reinf" alt="Backend .NET Developer" />
 
+<a href="https://matheusav.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-E23636?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="PORTFOLIO" /></a>
 <a href="https://www.linkedin.com/in/matheus-avelino-de-jesus-071737188/"><img src="https://img.shields.io/badge/LINKEDIN-E23636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
 <a href="mailto:matheusjesusavelino@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-E23636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="E-mail" /></a>
 <a href="https://github.com/MatheusAV?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-2E6BD6?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Repositórios" /></a>
@@ -20,23 +21,24 @@
 <tr>
 <td width="60%" valign="top">
 
-Desenvolvedor **backend .NET** em São Paulo. Construo **APIs REST** com ASP.NET Core
-pensando em arquitetura antes de código: **Clean Architecture**, **DDD**, **CQRS** e
-**SOLID** não são enfeite de README aqui — são a forma como os projetos deste perfil
-estão organizados.
+Engenheiro de software com mais de **8 anos** de experiência, com foco em back-end **.NET**
+e **C#**. Desde 2022 no setor financeiro, construindo e sustentando integrações críticas para
+cooperativas de crédito — **Banco Central (Bacen)**, **Pix**, assinatura digital e **EFD-Reinf**
+— em ambientes que combinam monólitos e microsserviços.
 
-No dia a dia trabalho com **C#**, **Entity Framework Core**, **SQL Server**,
-**PostgreSQL**, **MongoDB** e **Redis**, com autenticação **JWT**, tempo real via
-**SignalR**, logging estruturado com **Serilog**, testes com **xUnit** e containers
-com **Docker**. No frontend, entrego a ponta com **Angular** e **TypeScript**.
+APIs REST em **ASP.NET Core**, mensageria com **Apache Kafka** e **RabbitMQ**, e bases em **SQL
+Server**, **Oracle/PL-SQL**, **PostgreSQL**, **MySQL** e **MongoDB**, sobre **AWS** e **Azure**.
+Produção é meu terreno: causa raiz de falha crítica, gargalo de performance, paralelização
+de lote e monitoramento com **Datadog**. No front, **Angular**, **React** e **Vue**.
 
 ```csharp
-public sealed class Matheus : IBackendDeveloper
+public sealed class Matheus : ISoftwareEngineer
 {
-    public string  Role      => ".NET Backend Developer";
-    public string  Location  => "São Paulo, Brasil";
-    public string[] Focus    => ["Clean Architecture", "DDD", "CQRS", "SOLID"];
-    public bool    OpenToWork => true;
+    public int      Years      => 8;
+    public string   Focus      => ".NET · C# · Microsserviços";
+    public string   Domain     => "Financeiro · Bacen · Pix";
+    public string[] Queues     => ["Kafka", "RabbitMQ"];
+    public bool     OpenToWork => true;
 }
 ```
 
@@ -45,15 +47,15 @@ public sealed class Matheus : IBackendDeveloper
 
 <br>
 
-**Backend .NET developer** based in São Paulo, Brazil. I build **REST APIs** with
-ASP.NET Core with architecture as a first-class concern: **Clean Architecture**,
-**DDD**, **CQRS** and **SOLID** are not README decoration here — they are how the
-projects on this profile are actually structured.
+Software engineer with **8+ years** of experience, focused on **.NET** and **C#** back ends.
+Since 2022 in the financial sector, building and supporting critical integrations for credit
+unions — **Central Bank (Bacen)**, **Pix**, digital signature and **EFD-Reinf** — in environments
+that mix monoliths and microservices.
 
-Day to day I work with **C#**, **EF Core**, **SQL Server**, **PostgreSQL**,
-**MongoDB** and **Redis**, with **JWT** auth, real-time via **SignalR**, structured
-logging with **Serilog**, testing with **xUnit** and **Docker**. On the frontend I
-ship the last mile with **Angular** and **TypeScript**.
+REST APIs on **ASP.NET Core**, messaging with **Apache Kafka** and **RabbitMQ**, and data on **SQL
+Server**, **Oracle/PL-SQL**, **PostgreSQL**, **MySQL** and **MongoDB**, over **AWS** and **Azure**.
+Production is my ground: root-cause analysis, performance bottlenecks, batch parallelisation
+and monitoring with **Datadog**. On the front end, **Angular**, **React** and **Vue**.
 
 </details>
 
@@ -135,11 +137,13 @@ ship the last mile with **Angular** and **TypeScript**.
 
 <div align="center">
 
-Aberto a oportunidades como **desenvolvedor backend .NET** — São Paulo ou remoto.
+Aberto a oportunidades como **engenheiro de software full stack** — São Paulo, híbrido ou remoto. Disponibilidade imediata e CNPJ ativo.
 
 <a href="https://www.linkedin.com/in/matheus-avelino-de-jesus-071737188/"><img src="https://img.shields.io/badge/LINKEDIN-E23636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
 <a href="mailto:matheusjesusavelino@gmail.com"><img src="https://img.shields.io/badge/GMAIL-E23636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" /></a>
 <a href="https://github.com/MatheusAV"><img src="https://img.shields.io/badge/GITHUB-2E6BD6?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" /></a>
+<a href="https://wa.me/5511984024289" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WHATSAPP" /></a>
+<a href="https://matheusav.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-E23636?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="PORTFOLIO" /></a>
 
 <br><br>
 
