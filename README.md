@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-v2.svg" width="100%" alt="Matheus Avelino de Jesus — Engenheiro de Software Full Stack" />
+<img src="./assets/hero-2026.svg" width="100%" alt="Matheus Avelino de Jesus — Engenheiro de Software Full Stack" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=E23636&center=true&vCenter=true&width=820&height=48&lines=Engenheiro%20de%20Software%20Full%20Stack;8%2B%20anos%20em%20.NET%20e%20C%23;Microsservi%C3%A7os%20%C2%B7%20Kafka%20%C2%B7%20RabbitMQ;Integra%C3%A7%C3%B5es%20Bacen%20%C2%B7%20Pix%20%C2%B7%20EFD-Reinf" alt="Engenheiro de Software Full Stack" />
 
